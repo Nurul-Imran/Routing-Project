@@ -5,7 +5,7 @@ import PageTitle from '../Components/PageTitle'
 const Add_Blog = () => {
     return (
         <div>
-            <PageTitle title="Blog" />
+            <PageTitle title="Blog Page" />
             <h1>Blog Page</h1>
         </div>
     )
